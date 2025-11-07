@@ -1,5 +1,7 @@
 ## Welcome to my profile
 
+![peepoHey](peepoHey-1x.gif)
+
 Hi, I'm Bux
 
 I love creating cool stuff
@@ -11,4 +13,4 @@ Some of my web demo projects:
 - [Trackmania 3D analysis tool](https://tmdojo.com/)
 - [LeekWars Restator Remastered](https://leek-wars-restator.vercel.app/)
 
-![peepoHey](peepoHey.gif)
+
