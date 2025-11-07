@@ -1,16 +1,14 @@
-## Hi there 👋
+## Welcome to my profile
 
-<!--
-**Bux42/Bux42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Bux
 
-Here are some ideas to get you started:
+I love creating cool stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to support me, you can [buy me a coffee ☕](https://buymeacoffee.com/tsw2s9ypx1)
+
+Some of my web demo projects:
+- [Monte Carlo Tree Search Visualizer](https://bux42.github.io/MCTS/)
+- [Trackmania 3D analysis tool](https://tmdojo.com/)
+- [LeekWars Restator Remastered](https://leek-wars-restator.vercel.app/)
+
+![peepoHey](peepoHey.gif)
